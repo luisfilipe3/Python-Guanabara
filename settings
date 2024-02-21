@@ -17,3 +17,26 @@
     "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
 
 }
+
+SETTINGS 2 ↓ MAIS LEVE PRA VISÃO
+
+{
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "symbols.hidesExplorerArrows": false,
+    "workbench.iconTheme": "symbols",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.lineHeight": 1.8,
+    "editor.rulers": [90, 120],
+    "editor.renderLineHighlight": "gutter",
+    "explorer.compactFolders": false,
+    "editor.scrollbar.vertical": "hidden",
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+    "editor.wordWrap": "on",
+    "editor.fontSize": 16,
+
+}

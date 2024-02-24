@@ -1,8 +1,8 @@
 nome = input ('Digite o seu nome por favor :D \n')
-genero = input('Digite a letra que você mais se identifica:\nH para Homem(Cis)\nM para Mulher(Cis)\nL para LGBTQIAP+\nNB para pessoa Não-Binária\n')
-if genero == 'H' or genero == 'h':
+genero = input('Digite a letra que você mais se identifica em relação ao gênero:\n\nM para Masculino\nF para Feminino\nL para LGBTQIAP+\nNB para pessoa Não-Binária\n')
+if genero == 'M' or genero == 'm':
     print(f'Seja Bem Vindo {nome}')
-elif genero == 'M' or genero == 'm':
+elif genero == 'F' or genero == 'f':
     print(f'Seja Bem Vinda {nome}')
 elif genero == 'L' or genero == 'l':
     print(f'Seja Bem Vinde {nome}')
